@@ -15,15 +15,15 @@
 
 ## Como abrir:
 
-1. Faça o download do arquivo `RelatorioVendas.pbix`
+1. Faça o download do arquivo `Projeto4.pbix`
 2. Abra com Power BI Desktop
 
 ## Prints do dashboard:
 
 *(Adicione aqui imagens do seu projeto)*  
 Exemplo:  
-![Dashboard](imagens/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
-Feito com 💜 por Lexi
+Feito com 💜 por Manuella
