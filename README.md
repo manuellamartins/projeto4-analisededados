@@ -19,8 +19,7 @@
 2. Abra com Power BI Desktop
 
 ## Prints do dashboard:
-
-*(Adicione aqui imagens do seu projeto)*  
+ 
 Exemplo:  
 ![Dashboard](Dashboard.png)
 
